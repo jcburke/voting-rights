@@ -9,7 +9,7 @@ title:            Voting Rights
 tagline:          ''
 description:      'A 2020 Data Science for Social Good summer fellowship project at the University of Washington' 
 url:              "https://DSSG-eiCompare.github.io"
-baseurl:          "/voting_rights"
+baseurl:          "https://DSSG-eiCompare.github.io/voting_rights"
 
 
 paginate:         5
