@@ -5,14 +5,20 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-# Project Name
+# Detecting Vote Dilution
 
 ## The Team
 
-**Project Lead/s:**
+**Project Leads:**
 
-**Data Science Lead:** 
+Loren Collingwood, Matthew Barreto
+
+**Data Science Leads:**
+
+ Scott Henderson, Spencer Wood
 
 **DSSG Fellows:** 
+
+Ari Decter-Frain, Hikari Murayama, Juandalyn Burke, Pratik Sachdeva
 
 # Abstract or executive summary
