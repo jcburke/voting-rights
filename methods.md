@@ -27,7 +27,6 @@ A voter file typically includes the following information:
 
 
 Sometimes the voter file contains racial/ethnic information and other demographic information but this varies greatly by state.
-
 The voter file is public information and attainable via a state designated process that can be either requested by a physical and/or online form (see figure below). The process varies by state, can take up to several weeks to obtain, and may include a fee for processing.
 
 ![Figure 4: New York State website for attaining access to voter information via an online form. https://www.elections.ny.gov/FoilRequests.html](images/voter_registration_ny.png)
