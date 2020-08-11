@@ -4,7 +4,7 @@ title: Methods
 ---
 
 ## **Data**
-Data 
+
 The data needed to carry-out ecological inference for the eiCompare package include a voter file, surname lists, and census data (see figure below). In this section, we discuss what these sources of information are and how they are utilized along the eiCompare pipeline.
 
 ![Figure 2: Ecological Inference pipeline for eICompare package.](images/eiCompare_pipeline.png)
